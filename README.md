@@ -1,7 +1,7 @@
 # Aneta
 ### Resources and Project management tool
 
-##### 3 min pitch video - 
+##### 3 min pitch video - https://www.youtube.com/watch?v=trwPCOCY71Y
 ##### Aneta is available at - https://its-me-sv.github.io/aneta/
 
 #### Table of contents (with TTR)
