@@ -1,5 +1,5 @@
 # Aneta
-### Work from 🏠 home made simple
+### Resources and Project management tool
 
 ##### 3 min pitch video - 
 ##### Aneta is available at - https://its-me-sv.github.io/aneta/
